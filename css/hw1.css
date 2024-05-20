@@ -46,8 +46,8 @@ header {
 }
 
 #content {
-    background-color: grey; /* left here in case the image url becomes broken in the future */
-    background-image: url("https://st.depositphotos.com/1907633/2182/i/450/depositphotos_21827101-stock-photo-businessman-working-with-a-cloud.jpg");
+    /* Image source: https://st.depositphotos.com/1907633/2182/i/450/depositphotos_21827101-stock-photo-businessman-working-with-a-cloud.jpg */
+    background-image: url("../images/stock-photo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
